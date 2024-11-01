@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>6A6A6A</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cornavega>FFFFFF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>0B0B0B</cortexto>
+        <titulo>Dragones y Fantasia</titulo>
+        <autor>Aleck Fernandez</autor>
+        <imaxefondo posx="-96" posy="-40" trans="100">pngtree-fantasy-castle-hd-wallpaper-picture-image_3486489.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Bien</correcto>
+        <incorrecto son="" modo="1" >Mal</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>INTRODUCCION A LA MITOLOGIA Y FANTASIA</cabeceira>
+              <imaxe>images_(3).jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#FFFF00" face="Arial" size="24"><b>Los seres mitológicos son criaturas sobrenaturales que aparecen en las leyendas y mitos de distintas culturas alrededor del mundo. Suelen representar fuerzas naturales, simbolizar valores culturales o explicar fenómenos inexplicables. Algunos seres son benévolos y protectores, como los ángeles o hadas, mientras que otros son temibles y destructivos, como los dragones y demonios. Ejemplos incluyen a las sirenas, de origen griego, que habitan el mar y atraen a los marineros; los unicornios, símbolo de pureza y gracia; y los duendes y trolls de la mitología nórdica, conocidos por habitar en bosques y montañas. Estos seres son importantes en la literatura y el folclore y reflejan el imaginario y los miedos de cada sociedad.</b><br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>FF80FC</cfondo>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>19</tipo>
+              <cabeceira>Encuentra la Palabra secreta</cabeceira>
+              <imaxe>images.jpg</imaxe>
+              <son>monster-warrior-roar-195877.mp3</son>
+              <texto><![CDATA[ Una sombra masiva se deplaza entre las nubes, apenas revelando sus alas escamosas y ojos brillantes que observan desde las alturas]]></texto>
+              <resp texto="RDAGNO">DRAGON</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>2</cabeceira>
+              <imaxe>images_(1).jpg</imaxe>
+              <son>sound-effect-woman-scream-236488.mp3</son>
+              <texto><![CDATA[Una figura emerge en la penumbra, su silueta apenas visible entre las sombras. Al acercarse, destellos de escamas y movimientos serpenteantes revelan una cabellera de serpientes vivas, cada una siseando con advertencia]]></texto>
+              <resp texto="AUSMDE">MEDUSA</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>3</cabeceira>
+              <imaxe>descarga.jpg</imaxe>
+              <son>monster-roar-02-102957.mp3</son>
+              <texto><![CDATA[Una figura enorme se perfila contra el horizonte, su única mirada fija y penetrante brilla en la penumbra un solo OJO resalta entre las sombras]]></texto>
+              <resp texto="ICEPOL">CICLOPE</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>4</cabeceira>
+              <imaxe>png-transparent-zeus-greek-god-zeus-god-atheism-religion-worship-god-prayer-fictional-character-divinity.png</imaxe>
+              <son>thunder-245174.mp3</son>
+              <texto><![CDATA[Una presencia imponente se alza entre nubes cargadas de truenos, envuelta en relámpagos que zigzaguean a su alrededor]]></texto>
+              <resp texto="ESZU">ZEUS</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>5</cabeceira>
+              <imaxe>images_(2).jpg</imaxe>
+              <son>boo-hahahaha-257718.mp3</son>
+              <texto><![CDATA[Oculto entre las sombras del bosque, un pequeño ser de ojos brillantes observa silencioso. Sus orejas puntiagudas asoman entre el desorden de su cabellera salvaje, y una sonrisa astuta juega en su rostro.]]></texto>
+              <resp texto="EDNU">DUENDE</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <cabeceira>ROMPECABEZAS MITOLOGICO</cabeceira>
+              <imaxe>images_(7).jpg</imaxe>
+              <filas>2</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>4</tipo>
+              <cabeceira>SOPA DE LETRAS FANTASIOSA</cabeceira>
+              <modo>2</modo>
+              <sopa enun="aa4e63b9dbcb0a5c43d75fb33b4035c5.jpg">ELFO</sopa>
+              <sopa enun="images_(5).jpg">MINOTAURO</sopa>
+              <sopa enun="images_(4).jpg">CENTAURO</sopa>
+              <sopa enun="images_(6).jpg">FENIX</sopa>
+              <sopa enun="png-clipart-griffin-mitologia-fauna-wildlife.png">GRIFFO</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVXYZ</fondo>
+        </paxina>
+    </libro>
+</lim>
